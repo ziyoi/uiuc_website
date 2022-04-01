@@ -24,7 +24,7 @@ subtitle = "How do we science?"
   icon = "flag"
   icon_pack = "fas"
   name = "Exposure Modeling"
-  description = "Modeling the levels of air pollution that people are exposed to over space and tmime  
+  description = "Modeling the levels of air pollution that people are exposed to over space and time"
 
 [[feature]]
   icon = "brain"
