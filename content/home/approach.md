@@ -17,14 +17,14 @@ subtitle = "How do we science?"
 [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
-  name = "Atmospheric modeling"
-  description = "Modeling the emission, transport, transformation, and removal of chemicals in the atmosphere"
+  name = "Air Sampling"
+  description = "Sampling pollutants in the atmosphere"
 
 [[feature]]
   icon = "flag"
   icon_pack = "fas"
-  name = "Impact assessment"
-  description = "Modeling the impact of behavior and policy scenarios on human health and health equity"  
+  name = "Exposure Modeling"
+  description = "Modeling the levels of air pollution that people are exposed to over space and tmime  
 
 [[feature]]
   icon = "brain"

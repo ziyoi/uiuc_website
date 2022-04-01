@@ -44,16 +44,16 @@ superuser: true
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ctessum@illinois.edu
+  link: mailto:mtessum@illinois.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ctessum
+  link: https://twitter.com/MeiTessum
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Psjg0S8AAAAJ
+  link: https://scholar.google.com/citations?user=nGMmuqAAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/ctessum
+  link: https://github.com/ziyoi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Ambient air pollution causes ~4% of total deaths in the United States, more than three times the number caused by motor vehicle crashes. Our group assesses air pollution-related effects of human activity, focusing on mechanistic modeling of outdoor air pollution and its health impacts, quantifying inequities in the distribution of those impacts, and proposing and testing solutions. We study the relationships between emissions, human activities that cause them, and the resulting health impacts, and we develop modeling capabilities to enable these types of analyses.
+Ambient air pollution causes ~4% of total deaths in the United States. Our research Our group assesses air pollution levels and the human health impacts caused by them, focusing on air pollution monitoring, environmental exposure modeling, and aerosol measurement and control technology. Most recently, we are developing air quality monitoring strategies to collect high quality air pollution data, and producing accurate air pollution exposure estimates for health studies in both ambient and occupational settings using advanced statistical and machine learning methods.
