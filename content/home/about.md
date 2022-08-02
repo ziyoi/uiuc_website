@@ -14,6 +14,6 @@ author = "admin"
 
 [design.background]
 # Background image.
-image = "brad-knight-huWlb1NP67w-unsplash.png"  # Name of image in `static/img/`.
+# image = "brad-knight-huWlb1NP67w-unsplash.png"  # Name of image in `static/img/`.
 
 +++

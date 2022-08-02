@@ -15,13 +15,13 @@ subtitle = "How do we science?"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "globe-americas"
+  icon = "flask"
   icon_pack = "fas"
   name = "Air Sampling"
   description = "Sampling pollutants in the atmosphere"
 
 [[feature]]
-  icon = "flag"
+  icon = "globe-americas"
   icon_pack = "fas"
   name = "Exposure Modeling"
   description = "Modeling the levels of air pollution that people are exposed to over space and time"
