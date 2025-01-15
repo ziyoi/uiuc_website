@@ -51,7 +51,6 @@ title = "Tessum Research Lab"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Air pollution kills 3,000,000 people per year. So how can we stop it?**
 
 
 
