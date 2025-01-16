@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yeong Min Kim is a postdoctoral visiting scholar in Department of Civil and Environmental Engineering at University of Illinois at Urbana-Champaign. She has expertise in quantifying pollution exposure in different environmental media. Her past studies involved experiments and mathematical modeling for estimating greenhouse gas emissions from environmental facilities and soils. Her recent activities focus on field monitoring and computations to acquire air pollution data in high spatial and/or temporal resolution
+bio: Yeong Min Kim is a postdoctoral visiting scholar in Department of Civil and Environmental Engineering at University of Illinois at Urbana-Champaign. She has expertise in quantifying pollution exposure in different environmental media. Her past studies involved experiments and mathematical modeling for estimating greenhouse gas emissions from environmental facilities and soils. Her recent activities focus on field monitoring and computations to acquire air pollution data in high spatial and/or temporal resolution.
 
 interests:
 
@@ -58,3 +58,5 @@ email: ""
 user_groups:
 - "Researchers"
 ---
+
+Yeong Min Kim is a postdoctoral visiting scholar in Department of Civil and Environmental Engineering at University of Illinois at Urbana-Champaign. She has expertise in quantifying pollution exposure in different environmental media. Her past studies involved experiments and mathematical modeling for estimating greenhouse gas emissions from environmental facilities and soils. Her recent activities focus on field monitoring and computations to acquire air pollution data in high spatial and/or temporal resolution.
